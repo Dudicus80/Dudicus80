@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dudicus80
 - 👀 I’m interested in learning every kind of programming I can. 
-- 🌱 I’m currently learning to develop my React skills. Most of what I upload will be projects I'm using to teach myself. 
+- 🌱 I’m currently learning more every day! 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...griffithdennis81@gmail.com
 
